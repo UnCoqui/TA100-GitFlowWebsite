@@ -1,11 +1,13 @@
-This is a group website that will allow each member to contribute to the website. This will allow everyone to practice:
+In this exercise we will practice using GIT.  This will allow everyone to practice the following:
 
 - Cloning a repository
 - Pulling from the main branch
 - Creating a branch
-- Adding to changes to the website
+- Adding to specific changes to the website
 - Submit a pull request
 - Get pull request merged
-- Update branch with completed project
+- Update your branch with completed project
+
+This is the typical GIT workflow on a project. 
 
 

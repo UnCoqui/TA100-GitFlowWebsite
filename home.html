@@ -9,7 +9,32 @@
 </head>
 <body>
 <div class="navBar">
-<div>Welcome to Tech Cohort 14 Team Website</div>  
+  <nav role="navigation">
+    <div id="menuToggle">
+      <!--
+      A fake / hidden checkbox is used as click receiver,
+      so you can use the :checked selector on it.
+      -->
+      <input type="checkbox" />
+      
+      <!--
+      Some spans to act as a "hamburger".
+      -->
+      <span></span>
+      <span></span>
+      <span></span>
+      
+      <ul id="menu">
+        <a href="#"><li>Home</li></a>
+        <a href="#"><li>About</li></a>
+        <a href="#"><li>Sample</li></a>
+        <a href="#"><li>Contact</li></a>
+        <a href="https://www.nfar.org/what-we-do/nfar-tech" target="_blank"><li>Show me more</li></a>
+      </ul>
+    </div>
+  </nav>  
+  <div id="welcome">Welcome to Tech Cohort 14 Team Website</div> 
+</div> 
   
 </div>
     <div class="row">
