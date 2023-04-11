@@ -4,12 +4,11 @@ In this exercise we will practice using GIT.  This will allow everyone to practi
 - Pulling from the main branch
 - Creating a branch
 - Adding to specific changes to the website
-- Submit a pull request
+- Submit a pull request (on GitHub)
 - Get pull request merged
 - Update your branch with completed project
 
 This is the typical GIT workflow on a project. 
 
-Can you merge changes? 
 
 
