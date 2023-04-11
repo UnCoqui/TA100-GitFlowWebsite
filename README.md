@@ -10,6 +10,6 @@ In this exercise we will practice using GIT.  This will allow everyone to practi
 
 This is the typical GIT workflow on a project. 
 
-Can you merge changes? 
+2Test Branch. 
 
 
