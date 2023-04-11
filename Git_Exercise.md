@@ -10,35 +10,36 @@ Repository will be a simple web page that everyone contributes to. Contribution 
 
  
 
-In Terminal Create a folder for the exercise:   
-
+1. In Terminal Create a folder for the exercise:   
+```
 %mkdir <folder_name> 
+```
 
-Change to the folder:  
-
+2.  Change to the folder:  
+```
 %cd <folder_name>  
+```
+3. Clone the directory. You can get the clone address by navigation to the repository and click on <>Code and copy the HTTPS URL address 
 
-Clone the directory. You can get the clone address by navigation to the repository and click on <>Code and copy the HTTPS URL address 
-
- ```
+```
 %git clone https://github.com/<YOUR-REPOSITORY> 	 
-
-Create a branch for your changes: 
-
+```
+4.  Create a branch for your changes: 
+```
 %git branch <branch-name> 
-
-Switch to the new branch: 
-
+```
+5. Switch to the new branch: 
+```
 %git checkout <branch-name> 
-
-Now you can push this branch up to git hub:  
-
+```
+6. Now you can push this branch up to git hub:  
+```
 %git push –u origin <branch name> 
 ```
 
-Check that the branch has been successfully pushed up. To confirm that the branch has been pushed, head over to GitHub and click the branches drop-down. You should see the branch there: 
+7. Check that the branch has been successfully pushed up. To confirm that the branch has been pushed, head over to GitHub and click the branches drop-down. You should see the branch there: 
 
-Text Box 	 	 
+![branch-dropdown](images/gitBranchDropDown.jpg)
 
 Now that you have a local branch and have it showing up remotely you can make changes to the local repository.  
 
