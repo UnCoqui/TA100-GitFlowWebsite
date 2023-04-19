@@ -1,11 +1,16 @@
-# GIT Project Workflow Exercise 
-#What is Git?
-Git is the most commonly used version control system. Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to. Git also makes collaboration easier, allowing changes by multiple people to all be merged into one source. 
+# Introduction
+## What is Git and GitHub?
+### Git: 
+Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time. **Git** is the most commonly used version control system. Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to. Git also makes collaboration easier, allowing changes by multiple people to all be merged into one source.  
 
-So regardless of whether you write code that only you will see, or work as part of a team, Git will be useful for you.
+So regardless of whether you write code that only you will see, or work as part of a team, Git will be useful for you. In some cases it may even be a required skill for employment.
 
-Git is software that runs locally. Your files and their history are stored on your computer. You can also use online hosts (such as GitHub or Bitbucket) to store a copy of the files and their revision history. Having a centrally located place where you can upload your changes and download changes from others, enable you to collaborate more easily with other developers. Git can automatically merge the changes, so two people can even work on different parts of the same file and later merge those changes without losing each other’s work!
+Git is software that runs locally. You normally use Terminal (MacOs) or Git Bash (Windows) and use commands to manage the repository. Your files and their history are stored on your computer.  Git can automatically merge the changes, so two people can even work on different parts of the same file and later merge those changes without losing each other’s work!
  
+### GitHub:
+GitHub is a for-profit company that offers a cloud-based Git repository hosting service. Essentially, it makes it a lot easier for individuals and teams to use Git for version control and collaboration. So while Git is storing your code locally, GitHub is where you can store your code remotely and share with others. 
+
+GitHub’s interface is user-friendly enough so even novice coders can take advantage of Git. Without GitHub, using Git generally requires a bit more technical savvy and use of the command line.
 
 ## Set up a practice repository in NFAR:  
 
