@@ -35,4 +35,24 @@ Open terminal on your Mac. From the terminal command prompt lets make sure to se
 ```
 $ git config --global user.name "your-github-user-name"
 $ git config --global user.email "your@email.com"
+```
+
+If you want to check your configuration settings enter the following command in Terminal:
+```
+git config --list
+````
+This command will list all the settings Git can find at that point (yours will look different):
+```
+$ git config --list
+user.name=John Doe
+user.email=johndoe@example.com
+color.status=auto
+color.branch=auto
+color.interactive=auto
+color.diff=auto
+```
+There are a lot of Git commands and you are not expected t know them all. You can always use a reference for the [Git commands](https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Setup-and-Config). You can also download one of the following cheat sheets: 
+
+[GitHub Education Git Commands Cheat Sheet](images/git-cheat-sheet-education.pdf)
+[GitLab Git Commands Cheat Sheet](images/images/git-cheat-sheet.pdf)
 
