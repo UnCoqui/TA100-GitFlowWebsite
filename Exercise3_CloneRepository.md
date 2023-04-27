@@ -5,14 +5,14 @@ This repository will be a simple web page that everyone contributes to. Contribu
 
  
 
-1. In Terminal Create a folder for the exercise:   
+1. In Terminal navigate to your work folder and create a new folder for the exercise:   
 ```
-%mkdir <folder_name> 
+%mkdir c14Website 
 ```
 
 2.  Change to the folder:  
 ```
-%cd <folder_name>  
+%cd c14Website  
 ```
 3. Clone the directory. You can get the clone address by navigation to the repository and click on <>Code and copy the HTTPS URL address 
 
