@@ -3,7 +3,9 @@
 ## Do you have Git installed?
 Since we will be working with Mac's, all the steps are for MacOs. Most MacOs computers have Git pre-installed you just have to get it activated. If you want to work from home you have to take a couple of more steps. 
 
-Many of the Git commands are run in Terminal. What is Terminal? The Mac Terminal is a command line interface (CLI) for the macOS operating system (OS). There is an excellent 15min video for [Beginners](https://www.youtube.com/watch?v=aKRYQsKR46I). A more in depth explanation can be found [here](https://www.youtube.com/watch?v=ogWoUU2DXBU) 
+Many of the Git commands are run in Terminal. What is Terminal? The Mac Terminal is a command line interface (CLI) for the macOS operating system (OS). There is an excellent 15min video for [Beginners](https://www.youtube.com/watch?v=aKRYQsKR46I). A more in depth explanation can be found [here](https://www.youtube.com/watch?v=ogWoUU2DXBU). Open Terminal by opening [Spotlight](https://support.apple.com/guide/mac-help/search-with-spotlight-mchlp1008/mac) (Command button + Spacebar).![command button](/images/commandbutton.png).
+
+For windows keyboards the Windows key is the Command button  When you do this the Spotlight
 
 Here is a guide on how to install Git on your computer: [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Follow steps in order to install Git (make sure to follow steps for your operating system - MacOs or Windows ). 
 
