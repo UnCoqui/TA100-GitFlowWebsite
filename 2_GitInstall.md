@@ -51,8 +51,6 @@ color.branch=auto
 color.interactive=auto
 color.diff=auto
 ```
-There are a lot of Git commands and you are not expected t know them all. You can always use a reference for the [Git commands](https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Setup-and-Config). You can also download one of the following cheat sheets: 
-
-[GitHub Education Git Commands Cheat Sheet](images/git-cheat-sheet-education.pdf)
-[GitLab Git Commands Cheat Sheet](images/images/git-cheat-sheet.pdf)
+There are a lot of Git commands and you are not expected t know them all. You can always use a reference for the [Git commands](https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Setup-and-Config) or download one of the following cheat sheets: 
+[GitHub Education Git Commands Cheat Sheet](images/git-cheat-sheet-education.pdf) or [GitLab Git Commands Cheat Sheet](images/images/git-cheat-sheet.pdf)
 
