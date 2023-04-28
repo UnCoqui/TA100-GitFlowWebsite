@@ -11,8 +11,6 @@ One of the many benefits of Git is that it allows many developers to work on the
    #### Step 7. Delete your branch
  
 
-Once they have made changes and checked to see if their code works they can submit a pull-request to have it merged to the central repository. When you arrive at a project they will ask you to fork or clone the repository you will be working on. 
-
 ## What is a pull-request:
 A pull request is an event to notify software developers that a team member has pushed code to a specific Git branch (or a specific version of the code repository) for a colleague to review. Once a developer opens a pull request, your team can review the potential changes introduced before merging with the central repository branch. 
 
