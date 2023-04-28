@@ -54,4 +54,4 @@ There are a lot of Git commands and you are not expected to know them all. You c
 [GitHub Education Git Commands Cheat Sheet](images/git-cheat-sheet-education.pdf) or [GitLab Git Commands Cheat Sheet](images/images/git-cheat-sheet.pdf)
 
 
-
+## [Next step: Working in a Team](3_TeamRepository.md)
