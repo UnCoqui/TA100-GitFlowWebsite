@@ -33,9 +33,9 @@ First name is lowercase, the first letter of the "Feature" is uppercase. Suppose
 %git checkout -b <firstnameFeature> 
 ```
 
- The `%git checkout -b` is doing TWO commands at once and is good practice. It is creating a branch **AND** checking it out with option `-b`. To just create a branch you can use the following command `git branch <branchName>`. However, you will have to remember to check it out. To avoid this painful mistake when creating a new branch just use `%git checkout -b`. 
+ The `%git checkout -b` is doing TWO commands at once and is good practice. It is creating a branch **AND** checking it out with option `-b`. To just create a branch you can use the following command `git branch <branchName>`. However, you will have to remember to check it out.. . and if you don't checkout the new branch you will be making changes to the main/master branch. Which means you would be breaking the social contract! To avoid this painful mistake of forgetting to switch to a newly created branch when creating a new branch just use `%git checkout -b`. 
  
- To switch to a branch you will use `git checkout <branchName>`. You will have to use this lateron. 
+ To switch to a branch you will use `git checkout <branchName>`. We will use this later on. 
  
 ### 5. Checkout the new branch: 
 STOP! Always check to see what branch you are on. To check to see what branch you are working on enter the following command in Terminal:  
