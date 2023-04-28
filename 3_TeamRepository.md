@@ -46,4 +46,4 @@ Whenever a developer opens a pull request, they should be sure to include all of
       - Each relevant commit should be included in your PR and each commit should have a concise description of code changes. 
 
 
-### [Next Step: Team Respository:](3_TeamRepository.md)
+### [Next Step: Team Respository](3_TeamRepository.md)
