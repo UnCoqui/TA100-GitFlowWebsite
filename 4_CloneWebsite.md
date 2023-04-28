@@ -23,18 +23,20 @@ This repository will be a simple web page that everyone contributes to. Contribu
 ```
 
 ### 4.  Create a branch for your changes:  
-Best practice is to NOT make changes to the main/master branch. Why is it so important to not make changes to the main branch? One word: deployable. It is your production code, ready to roll out into the world. The master/main branch is meant to be stable, and it is the social contract of open source software to never, ever push anything to master that is not tested, or that breaks the build. The entire reason GitHub works is that it is always safe to work from the master.
+Once you have a clone of the repository you will be on the main/master branch. Best practice is to NOT make changes to the main/master branch. Why is it so important to not make changes to the main branch? One word: deployable. It is your production code, ready to roll out into the world. The master/main branch is meant to be stable, and it is the social contract of open source software to never, ever push anything to master that is not tested, or that breaks the build. The entire reason GitHub works is that it is always safe to work from the master.
  
-Once you have a clone of the repository you will be on the main/master branch. Do we want to start making changes here. . . . . no. You will create a new branch and work on it there. Make sure to follow the this naming convention for branches: _<yourfirstnameFeature>_ <br>
-First name is lowercase, the first letter of the "Feature" is uppercase. Team member Ryan is working on updating the picture then the branch name would be: <br>
+Now that the importance of the main/master branch is established, let's create a branch to work in. Projects will have naming conventions for files, folder, branches (i.e. by issue, by feature, hotfix, ticket number, etc.), and coding. For our project when creating a branch make sure to follow this naming convention for branches: firstnameFeature   <br>
+First name is lowercase, the first letter of the "Feature" is uppercase. Suppose, team member Ryan is working on updating the picture then the branch name would be: <br>
  _ryanPicture_ 
  
 ```
-%git branch <yourfirstnameFeature> 
+%git branch <firstnameFeature> 
 ```
 ### 5. Checkout the new branch: 
-You created a branch, but you must change to it. If you don't change to the branch you will be making changes to the main branch and your changes will NOT be accepted. <br>
 STOP! Always check to see what branch you’re on. To check to see what branch you are on enter the following command in Terminal:  
+ 
+ You created a branch, but you must change to it. If you don't change to the branch you will be making changes to the main branch and your changes will NOT be accepted. <br>
+
 ```
 %git status 
 ```
