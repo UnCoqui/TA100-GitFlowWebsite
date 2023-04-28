@@ -21,4 +21,4 @@ What does the work flow look like? Each circle represents a commit or change in 
 <img src="/images/git-branches-merge.png" width="50%" height="50%">
 
 
-[Next step: Installing Git](2_GitInstall.md)
+## [Next step: Installing Git](2_GitInstall.md)
