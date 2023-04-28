@@ -1,35 +1,38 @@
-This repository will be a simple web page that everyone contributes to. Contribution will be limited to adding info to the website. Please note that letters in <italics> are examples and % is the Terminal prompt.  
+# Team Web Site!!
+For our team project we will work on a website that will NOT be publicly available. It will only run locally on your invidual machines.  
+
+This repository will be a simple web page that everyone contributes to. Contribution will be limited to adding personal info to the website. Please note that letters in <italics> are examples and % is the Terminal prompt.  
 
  
 
-1. In Terminal navigate to your work folder and create a new folder for the exercise:   
+### 1. In Terminal navigate to your work folder and create a new folder for the exercise:   
 ```
 %mkdir c14Website 
 ```
 
-2.  Change to the folder:  
+### 2.  Change to the folder:  
 ```
 %cd c14Website  
 ```
-3. Clone the directory. You can get the clone address by navigation to the repository and click on <>Code and copy the HTTPS URL address 
+### 3. Clone the directory. You can get the clone address by navigation to the repository and click on <>Code and copy the HTTPS URL address 
 
 ```
 %git clone https://github.com/<YOUR-REPOSITORY> 	 
 ```
-4.  Create a branch for your changes: 
+### 4.  Create a branch for your changes: 
 ```
 %git branch <branch-name> 
 ```
-5. Switch to the new branch: 
+### 5. Switch to the new branch: 
 ```
 %git checkout <branch-name> 
 ```
-6. Now you can push this branch up to git hub:  
+### 6. Now you can push this branch up to git hub:  
 ```
 %git push –u origin <branch name> 
 ```
 
-7. Check that the branch has been successfully pushed up. To confirm that the branch has been pushed, head over to GitHub and click the branches drop-down. You should see the branch there: 
+### 7. Check that the branch has been successfully pushed up. To confirm that the branch has been pushed, head over to GitHub and click the branches drop-down. You should see the branch there: 
 
 ![branch-dropdown](images/gitBranchDropDown.jpg)
 
