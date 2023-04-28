@@ -1,15 +1,23 @@
 # Working in a Team:  
 
-One of the many benefits of Git is that it allows many developers to work on the same code at once. There is a process for doing that. While there may be slight differences between organizations, they follow these general steps:
+You have an idea of what Git and GitHub are, and you have installed both of them as well. Maybe you've even pushed some of your code to your remote repository. Congratulations! Have you worked with others on the same code? Ahh, that can be interesting. One of the many benefits of Git is that it allows many developers to work on the same code at once. There is a process for doing that. While there may be slight differences between organizations, they follow these general steps:
 
    #### Step 1. Clone or fork repository
    #### Step 2. Create a branch in your repository
-   #### Step 3. Make changes to your branch. Commmit, and push your changes
+   #### Step 3. Make changes to your branch. Commit, and push your changes
    #### Step 4. Create a pull request
    #### Step 5. Address review comments
    #### Step 6. Merge your pull request
    #### Step 7. Delete your branch
  
+## To clone or to fork, that is the question..... ?
+Any public Git repository can be forked or cloned. A fork creates a completely independent copy of Git repository. In contrast to a fork, a Git clone creates a ***linked*** copy that will continue to synchronize with the target repository. So if you wan to 
+
+When a Git repository is cloned, the target repository remains shared amongst all of the developers who had previously contributed to it. Other developers who previously contributed to that codebase will continue to push their changes and pull updates from the cloned repository. Any developer who clones a repository can synchronize their copy of the codebase with any updates made by fellow developers.
+
+In contrast to a clone, a Git fork operation will create a completely new copy of the target repository. The developer who performs the fork will have complete control over the newly copied codebase. Developers who contributed to the Git repository that was forked will have no knowledge of the newly forked repo. Previous contributors will have no means with which they can contribute to or synchronize with the Git fork unless the developer who performed the fork operation provides access to them.
+
+
 
 ## What is a pull-request:
 A pull request is an event to notify software developers that a team member has pushed code to a specific Git branch (or a specific version of the code repository) for a colleague to review. Once a developer opens a pull request, your team can review the potential changes introduced before merging with the central repository branch. 
