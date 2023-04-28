@@ -52,20 +52,12 @@ STOP! Always check to see what branch you’re on. To check to see what branch y
 Now that you have a local branch and have it showing up remotely you can make changes to the local repository.  
 
 ### 8. Make the assigned changes to the website
-You will be given instructions on what changes to make to the code. 
+Each person will be assigned the scetion of code they will change
  
 ### 9. Commit changes to your branch
 
 
-Make changes to the home.html page. Make the following changes: 
 
-Add your First and Last Name 
-
-A sentence that mentions some of your hobbies (i.e. “My hobbies are reading, playing D&D, and hiking”) 
-
-Your autest email address.  
-
-DO NOT CHANGE IMAGE 
 
 Once you are satisfied with your changes proceed to add the file and commit your changes: 
 
