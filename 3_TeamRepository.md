@@ -19,6 +19,7 @@ In contrast to a clone, a Git fork operation will create a completely new copy o
 
 
 
+
 ## What is a pull-request:
 A pull request is an event to notify software developers that a team member has pushed code to a specific Git branch (or a specific version of the code repository) for a colleague to review. Once a developer opens a pull request, your team can review the potential changes introduced before merging with the central repository branch. 
 
