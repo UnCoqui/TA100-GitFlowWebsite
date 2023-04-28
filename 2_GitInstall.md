@@ -26,7 +26,7 @@ git version 2.39.2
 
 Not installed? Here is a guide on how to install Git on your computer: [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Follow steps in order to install Git (make sure to follow steps for your operating system - MacOs or Windows ). 
 
-4. Once you get git installed we need to customize the environment. Before we do that, do you have a GitHub account? If you do great, if not please create one here [GitHub Sign Up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). Make sure to use your **personal** email when creating the GitHub account. You will need to create a GitHub account in order to remotely access the repository. Remember Git is local, GitHub is remote. Please create the github account and come back here.   
+4. Once you get git installed we need to customize the environment. Before we do that, do you have a GitHub account? If you do, great, if not, please create one here [GitHub Sign Up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). Make sure to use your **personal** email when creating the GitHub account. You will need to create a GitHub account in order to remotely access the repository. Remember Git is local, GitHub is remote. Please create the github account and come back here.   
 
 5. Once you have confirmed that Git is installed you want to customize the environment. 
 
