@@ -23,7 +23,9 @@ This repository will be a simple web page that everyone contributes to. Contribu
 ```
 
 ### 4.  Create a branch for your changes:  
-Make sure to follow the this naming convention: _<yourfirstnameFeature>_ <br>
+Best practice is to NOT make changes to the main/master branch. Why is it so important to not make changes to the main branch? One word: deployable. It is your production code, ready to roll out into the world. The master/main branch is meant to be stable, and it is the social contract of open source software to never, ever push anything to master that is not tested, or that breaks the build. The entire reason GitHub works is that it is always safe to work from the master.
+ 
+Once you have a clone of the repository you will be on the main/master branch. Do we want to start making changes here. . . . . no. Yoou will create a new branch and work on it there. Make sure to follow the this naming convention for branches: _<yourfirstnameFeature>_ <br>
 First name is lowercase, the first letter of the "Feature" is uppercase. Team member Ryan is working on updating the picture then the branch name would be: <br>
  _ryanPicture_ 
  
