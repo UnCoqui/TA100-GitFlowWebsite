@@ -16,7 +16,7 @@ GitHub is a for-profit company that offers a cloud-based Git repository hosting 
 GitHub’s interface is user-friendly enough so even novice coders can take advantage of Git. Without GitHub, using Git generally requires a bit more technical savvy and use of the command line.
 
 ### GitHub Workflow:
-What does the work flow look like? Each circle represents a commit or change in the software. The green is the master or main source code. The blue and orange are branches of the main branch. Ntice that you can have other branches of the code that can eventually merge into the main branch.  
+What does the work flow look like? Each circle represents a commit or change in the software. The green is the master or main source code. The blue and orange are branches of the main branch. Notice that you can have other branches of the code that can eventually merge into the main branch.  
 
 <img src="/images/git-branches-merge.png" width="50%" height="50%">
 
