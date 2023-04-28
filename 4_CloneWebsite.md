@@ -30,17 +30,22 @@ First name is lowercase, the first letter of the "Feature" is uppercase. Suppose
  _ryanPicture_ 
  
 ```
-%git branch <firstnameFeature> 
+%git checkout -b <firstnameFeature> 
 ```
-### 5. Checkout the new branch: 
-STOP! Always check to see what branch you’re on. To check to see what branch you are on enter the following command in Terminal:  
- 
- You created a branch, but you must change to it. If you don't change to the branch you will be making changes to the main branch and your changes will NOT be accepted. <br>
 
+ The `%git checkout -b` is doing TWO commands at once and is good practice. It is creating a branch **AND** checking it out with option `-b`. To just create a branch you can use the following command `git branch <branchName>`. However, you will have to remember to check it out. To avoid this painful mistake when creating a new branch just use `%git checkout -b`. 
+ 
+ To switch to a branch you will use `git checkout <branchName>`. You will have to use this lateron. 
+ 
+### 5. Checkout the new branch: 
+STOP! Always check to see what branch you are on. To check to see what branch you are working on enter the following command in Terminal:  
+ 
 ```
 %git status 
 ```
-<img src="images/gitStatus.jpg" width="40%" length="40%">  
+ <img src="images/gitStatus.jpg" width="40%" length="40%">  
+ 
+You created a branch, but you must check it out. If you don't change to the branch you will be making changes to the main branch and your changes will NOT be accepted when submitting your changes. Essentially, you will have lost your code 😢. <br>
  
 ```
 %git checkout <yourfirstnameFeature> 
