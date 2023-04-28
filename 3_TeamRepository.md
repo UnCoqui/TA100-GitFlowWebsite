@@ -35,15 +35,15 @@ A pull request is an event to notify software developers that a team member has 
 
 ## The Anatomy of a Good Pull Request 
 Whenever a developer opens a pull request, they should be sure to include all of the following components: 
+<!-- 1. --> 
+   - ### The Title
+      - The title should be a meaningful summary of the purpose of the PR. Often this can correspond to a ticket, service, or component. 
 
-### The Title
-The title should be a meaningful summary of the purpose of the PR. Often this can correspond to a ticket, service, or component. 
+   - ### The Description
+      - The description should include changes the developer introduced so the reviewer knows what to look out for. 
 
-### The Description
-The description should include changes the developer introduced so the reviewer knows what to look out for. 
-
-### Commits
-Each relevant commit should be included in your PR and each commit should have a concise description of code changes. 
+   - ### Commits
+      - Each relevant commit should be included in your PR and each commit should have a concise description of code changes. 
 
 
 This repository will be a simple web page that everyone contributes to. Contribution will be limited to adding info to the website. Please note that letters in <italics> are examples and % is the Terminal prompt.  
