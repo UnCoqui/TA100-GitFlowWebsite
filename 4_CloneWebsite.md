@@ -31,7 +31,7 @@ First name is lowercase, the first letter of the "Feature" is uppercase. Team me
 %git branch <yourfirstnameFeature> 
 ```
 ### 5. Checkout the new branch: 
-You created a branch, but you must change to it. If you don't change to the branch you will be making chnags to the main branch and your chnages will NOT be accepted. <br>
+You created a branch, but you must change to it. If you don't change to the branch you will be making changes to the main branch and your changes will NOT be accepted. <br>
 STOP! Always check to see what branch you’re on. To check to see what branch you are on enter the following command in Terminal:  
 ```
 %git status 
@@ -41,27 +41,21 @@ STOP! Always check to see what branch you’re on. To check to see what branch y
 ```
 %git checkout <yourfirstnameFeature> 
 ```
-### 6. Make the assigned changes to the website
-You will be given instructions on what changes to make to the code. 
- 
-### 7. Commit changes to your branch
- 
 ### 6. Now you can push this branch up to git hub:  
 ```
 %git push –u origin <branch name> 
 ```
-
 ### 7. Check that the branch has been successfully pushed up. To confirm that the branch has been pushed, head over to GitHub and click the branches drop-down. You should see the branch there: 
 
 ![branch-dropdown](images/gitBranchDropDown.jpg)
 
 Now that you have a local branch and have it showing up remotely you can make changes to the local repository.  
 
+### 8. Make the assigned changes to the website
+You will be given instructions on what changes to make to the code. 
+ 
+### 9. Commit changes to your branch
 
-
-Git Status in Depth: Understanding Your File States | CloudBees 
-
-This will let you know what branch you are currently on other pertinent information about files.   
 
 Make changes to the home.html page. Make the following changes: 
 
