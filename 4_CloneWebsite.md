@@ -10,17 +10,20 @@ This repository will be a simple web page that everyone contributes to. Contribu
 %mkdir c14Website 
 ```
 
-### 2.  Change to the folder:  
+### 2. In Terminal Change to the folder:  
 ```
 %cd c14Website  
 ```
-### 3. Clone the directory. You can get the clone address by navigation to the repository and click on <>Code and copy the HTTPS URL address 
-
+### 3. Clone the directory. You can get the clone address by navigation to the repository and click on green <>Code and copy the HTTPS URL address 
+ <img src="images/gitCloneCode.jpg" width="40%" length="40%"> 
+ In Terminal clone the repository: 
+ 
 ```
 %git clone https://github.com/TechCohort14/TA100-GitFlowWebsite.git 	 
 ```
+
 ### 4.  Create a branch for your changes:  
-Make sure to follow the this naming convention:<yourfirstname_feature> <br>
+Make sure to follow the this naming convention: _<yourfirstname_feature>_ <br>
 Here is an example. If you are working on updating the picture, then use your first name and then Picture <br>
  _ryan_picture_ 
  
@@ -29,7 +32,7 @@ Here is an example. If you are working on updating the picture, then use your fi
 ```
 ### 5. Switch to the new branch: 
 ```
-%git checkout _<branch-name>_ 
+%git checkout <yourfirstname_feature> 
 ```
 ### 6. Make the assigned changes to the website
 You will be given instructions on what changes to make to the code. 
