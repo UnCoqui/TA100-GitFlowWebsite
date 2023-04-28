@@ -23,16 +23,23 @@ This repository will be a simple web page that everyone contributes to. Contribu
 ```
 
 ### 4.  Create a branch for your changes:  
-Make sure to follow the this naming convention: _<yourfirstname_feature>_ <br>
-Here is an example. If you are working on updating the picture, then use your first name and then Picture <br>
- _ryan_picture_ 
+Make sure to follow the this naming convention: _<yourfirstnameFeature>_ <br>
+First name is lowercase, the first letter of the "Feature" is uppercase. Team member Ryan is working on updating the picture then the branch name would be: <br>
+ _ryanPicture_ 
  
 ```
-%git branch <yourfirstname_feature> 
+%git branch <yourfirstnameFeature> 
 ```
-### 5. Switch to the new branch: 
+### 5. Checkout the new branch: 
+You created a branch, but you must change to it. If you don't change to the branch you will be making chnags to the main branch and your chnages will NOT be accepted. <br>
+STOP! Always check to see what branch you’re on. To check to see what branch you are on enter the following command in Terminal:  
 ```
-%git checkout <yourfirstname_feature> 
+%git status 
+```
+<img src="images/gitStatus.jpg" width="40%" length="40%">  
+ 
+```
+%git checkout <yourfirstnameFeature> 
 ```
 ### 6. Make the assigned changes to the website
 You will be given instructions on what changes to make to the code. 
@@ -50,11 +57,7 @@ You will be given instructions on what changes to make to the code.
 
 Now that you have a local branch and have it showing up remotely you can make changes to the local repository.  
 
-STOP! Always check to see what branch you’re on. To check to see what branch you are on enter the following command in Terminal:  
 
-%git status 
-
- 
 
 Git Status in Depth: Understanding Your File States | CloudBees 
 
