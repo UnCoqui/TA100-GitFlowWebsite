@@ -1,9 +1,20 @@
 # Working in a Team:  
 
-One of the many benefits of Git is that it allows many developers to work on the same code at once. Once they have made changes and checked to see if their code works they can submit a pull-request to have it merged to the central repository.  
+One of the many benefits of Git is that it allows many developers to work on the same code at once. There is a process for doing that. While there may be slight differences between organizations, they follow these general steps:
+
+   #### Step 1. Clone or fork repository
+   #### Step 2. Create a branch in your repository
+   #### Step 3. Make changes to your branch. Commmit, and push your changes
+   #### Step 4. Create a pull request
+   #### Step 5. Address review comments
+   #### Step 6. Merge your pull request
+   #### Step 7. Delete your branch
+ 
+
+Once they have made changes and checked to see if their code works they can submit a pull-request to have it merged to the central repository. When you arrive at a project they will ask you to fork or clone the repository you will be working on. 
 
 ## What is a pull-request:
-A pull request is an event to notify software developers that an engineer has pushed code to a specific Git branch (or a specific version of the code repository) for a colleague to review. Once a developer opens a pull request, your team can review the potential changes introduced before merging with the central repository branch. 
+A pull request is an event to notify software developers that a team member has pushed code to a specific Git branch (or a specific version of the code repository) for a colleague to review. Once a developer opens a pull request, your team can review the potential changes introduced before merging with the central repository branch. 
 
 ## What’s the difference between a Pull and a Push?
 The difference between a “pull” and a “push” is as intuitive as you think. A developer will pull to request a target repository to pick up their local changes and merge them into the existing code. A push is not a request, but a **command** (git push) used to “upload” local content or changes to a remote repository. Many of you have been pushing your code to your own repository. 
