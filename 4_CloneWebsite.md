@@ -62,8 +62,5 @@ You created a branch, but you must check it out. If you don't change to the bran
 Now that you have a local branch and have it showing up remotely you can contribute your assigned changes to the website.  
 
 
-
-### [Next Step: Changes to Website:](5_MakeChangesToWebsite.md)
-
-
+### [Next - Step 5: Changes to Website:](5_MakeChangesToWebsite.md)
 
