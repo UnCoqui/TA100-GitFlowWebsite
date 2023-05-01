@@ -1,7 +1,7 @@
 # Team Web Site!!
 For our team project we will work on a website that will NOT be publicly available. It will only run locally on your invidual machines.  
 
-This repository will be a simple web page that everyone contributes to. Contribution will be limited to adding personal info to the website. Please note that letters in <italics> are examples and % is the Terminal prompt.  
+This repository will be a simple web page that everyone contributes to. Contribution will be limited to adding personal info to the website. Please note that letters in between greater than and less than ( `<example>` ) are examples and `%` is the Terminal prompt.  
 
  
 
