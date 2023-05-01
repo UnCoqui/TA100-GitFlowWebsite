@@ -6,11 +6,11 @@ Many of the Git commands are run in Terminal. What is Terminal? The Mac Terminal
 ## Do you have Git installed?
 Since we will be working with Macs, all steps represent MacOS. Most MacOS computers have Git pre-installed you just have to get it activated. If you want to work from home you have to take a couple more steps (more details in step 3). 
 
-1. Press the Command button + Spacebar on keyboard to open [Spotlight](https://support.apple.com/guide/mac-help/search-with-spotlight-mchlp1008/mac). For windows keyboards the **Windows** key is the Command button.  When you do this the Spotlight will appear:
+1. Press the Command key + Spacebar on the keyboard to open [Spotlight](https://support.apple.com/guide/mac-help/search-with-spotlight-mchlp1008/mac). For windows keyboards the **Windows** key is used in place of the Command key.  When you do this the Spotlight Search bar will appear:
 
 <img src="images/spotlight.png" width="50%" height="50%">
 
-2. Enter Terminal in the spotlight search and select Terminal from the apps. Terminal window will open up:
+2. Enter the word "Terminal" in the spotlight search and select Terminal from the list. A Terminal window will open:
 
 <img src="images/terminalwindow.png" width="40%" height="40%">
 
@@ -19,18 +19,18 @@ Since we will be working with Macs, all steps represent MacOS. Most MacOS comput
 ```
 $ git --version
 ```
-Terminal will show something like this:
+Terminal will output something like this:
 ```
 git version 2.39.2
 ```
 
-Not installed? Here is a guide on how to install Git on your computer: [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Follow steps in order to install Git (make sure to follow steps for your operating system - MacOs or Windows ). 
+Not installed? Here is a guide on how to install Git on your computer: [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Follow the steps in order to install Git (make sure to follow steps for your operating system - MacOS or Windows ). 
 
-4. Once you get git installed we need to customize the environment. Before we do that, do you have a GitHub account? If you do, great, if not, please create one here [GitHub Sign Up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). Make sure to use your **personal** email when creating the GitHub account. You will need to create a GitHub account in order to remotely access the repository. Remember Git is local, GitHub is remote. Please create the github account and come back here.   
+4. Once you have Git installed we need to customize the environment. Before we do that, do you have a GitHub account? If you do, great, if not, please create one here [GitHub Sign Up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). Make sure to use your **personal** email when creating the GitHub account. You will need to create a GitHub account in order to remotely access the repository. Remember, *Git* is local, *GitHub* is remote. Please create the GitHub account and come back here.   
 
-5. Once you have confirmed that Git is installed you want to customize the environment. 
+5. Once you have confirmed that Git is installed, you'll want to customize the environment. 
 
-Open terminal on your Mac. From the terminal command prompt lets make sure to set up your identity by setting your user name and email address. This is important because every Git commit uses this information, and it’s immutably baked into the commits you start creating. In terminal enter the following (enter **your** information inside the quotation marks): 
+Open Terminal on your Mac. From the Terminal command prompt let's make sure to set up your identity by setting your user name and email address. This is important because every Git commit uses this information, and it’s immutably baked into the commits you start creating. In Terminal enter the following (enter **your** information inside the quotation marks): 
 ```
 $ git config --global user.name "your-github-user-name"
 $ git config --global user.email "your@email.com"
