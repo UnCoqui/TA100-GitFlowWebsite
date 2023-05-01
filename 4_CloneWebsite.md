@@ -1,4 +1,4 @@
-# Team Web Site!!
+# Clone Team Web Site
 For our team project we will work on a website that will NOT be publicly available. It will only run locally on your invidual machines.  
 
 This repository will be a simple web page that everyone contributes to. Contribution will be limited to adding personal info to the website. Please note that letters in between greater than and less than ( `<example>` ) are examples and `%` is the Terminal prompt.  
@@ -59,25 +59,11 @@ You created a branch, but you must check it out. If you don't change to the bran
 
 ![branch-dropdown](images/gitBranchDropDown.jpg)
 
-Now that you have a local branch and have it showing up remotely you can make changes to the local repository.  
-
-### 8. Make the assigned changes to the website
-Each person will be assigned the section of code they will change
- 
-### 9. Commit changes to your branch
+Now that you have a local branch and have it showing up remotely you can contribute your assigned changes to the website.  
 
 
 
+### [Next Step: Changes to Website:](5_MakeChangesToWebsite.md)
 
-Once you are satisfied with your changes proceed to add the file and commit your changes: 
 
-%git add home.html 
-
-%git commit –m “Your comments here” 
-
-%git push 
-
- 
-
- 
 
