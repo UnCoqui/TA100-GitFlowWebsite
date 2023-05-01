@@ -1,7 +1,32 @@
 # Team Website Contribution
+Now you get to make some changes. The website has "cards" to display some information for each cohort. Ech persone will be assigned a cohort number and will only make changes to that "card". 
 
-### 8. Make the assigned changes to the website
-Each person will be assigned the section of code they will change
+### 1. Navigate to your folder:
+Open Terminal and navigate to your project folder. Make sure to checkout the branch you created earlier and check status - this is important. 
+
+
+### 2. Make the assigned changes to the website
+Each person will be assigned a cohort card number. You can find tin the HTML under "title" ```<p class="title">COHORT 1</p>```. 
+```
+ <div class="column">
+          <div class="card">
+            <img src="images/SamplePic.jpg" alt="Cohort1">
+            <div class="container">
+              <h2>Your Name</h2>
+              <p class="title">COHORT 1</p>
+              <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+              <p>example@example.com</p>
+              <p><button class="button">Contact</button></p>
+            </div>
+          </div>
+        </div>
+        
+ ```       
+You will update the following: 
+- Upload your picture to the image folder (shoulder and up)
+- First and Last Name
+- A short sentence that describes somethign about you (i.e. maybe a hobby, that you are a Tech Partciapnt at NFAR, etc.)
+- your@autest.net email address
  
 ### 9. Commit changes to your branch
 
