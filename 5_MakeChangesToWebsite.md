@@ -24,15 +24,22 @@ Each person will be assigned a cohort card number. You can find in in the the HT
         
  ```       
 You will update the following: 
-- Upload your picture to the image folder (shoulder and up)
-- First and Last Name
-- A short sentence that describes somethign about you (i.e. maybe a hobby, that you are a Tech Participant at NFAR, etc.)
-- your@autest.net email address
- 
+- Upload your picture to the image folder (shoulder and up). We can take picture here. 
+- Change the `img src=` to point to the image you uploaded
+- In the `<h2>Your Name` enter your First and Last Name
+- In the `<p>Some text...` enter short sentence that describes somethign about you (i.e. maybe a hobby, that you are a Tech Participant at NFAR, etc.)
+- in the `<p> example@example.com` enteryour@autest.net email address
+### 5. Preview your work
+In order to preview your work you can view in your browswer using liveserver  
+
+<img src="images/SelectLiveServer.jpg" width="40%" length="40%"> 
+
 ### 4. Commit changes to your branch
 
+```
 %git add home.html
 
-%git commit –m “Your comments here”
+%git commit –m “changes to card "#" ”
 
 %git push
+```
