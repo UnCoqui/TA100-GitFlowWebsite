@@ -1,5 +1,5 @@
 # Team Website Contribution
-Now you get to make some changes. The website has "cards" to display some information for each cohort. Each persone will be assigned a cohort number and will only make changes to that "card". 
+Now you get to make some changes. The website has "cards" to display some information for each cohort. Each person will be assigned a cohort number and will only make changes to that "card". 
 
 ### 1. Navigate to your folder:
 Open Terminal and navigate to your project folder. Make sure to checkout the branch you created earlier and check status - this is important. 
