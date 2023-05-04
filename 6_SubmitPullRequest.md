@@ -5,3 +5,14 @@ You pushed your branch changes and you are now ready to them merged into the mai
 <img src="images/mergeMain.png">
 
 The main branch is tyically the repository that everyone can count on that works. So it must be protected from unverified changes. If you checked everything and are ready to submit your pull request. Proceed as follows:  
+
+### 
+
+<img src="images/newPullRequest.jpg">
+
+<img src="images/selectBranchForPR.jpg">
+
+<img src="images/pullRequestNotes.jpg">
+
+
+
