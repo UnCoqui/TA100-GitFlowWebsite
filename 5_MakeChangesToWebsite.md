@@ -19,10 +19,12 @@ In order to preview your work in your browswer use Live Server. This is a VS cod
 
 <img src="images/SelectLiveServer.jpg" width="40%" length="40%"> 
 
-The webpage will open in your browser and should look like this: 
+The webpage will open in your browser and should look like this:
+
+<img src="images/webPageStart.jpg" width="40%" length="40%"> 
 
 ### 4. Make the assigned changes to the website
-Each person will be assigned a cohort card number. You can find in the the HTML under "title" ```<p class="title">COHORT 1</p>```. 
+Each person will be assigned a cohort card number. You can find your assigned Cohort number in the the HTML under "title" ```<p class="title">COHORT 1</p>```. 
 ```
  <div class="column">
           <div class="card">
