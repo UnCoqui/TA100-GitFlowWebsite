@@ -15,11 +15,11 @@ While in Terminal open VS code by entering the following command:
 VS Code will open in the corresponding folder. If this does command does not launch VS Code for you, please follow these [instructions](https://code.visualstudio.com/docs/setup/mac) to configure this shortcut from Terminal.  
 
 ### 3. Preview your work
-In order to preview your work in your browswer using Live Server. This is a VS code feature that will show a "live" version of the website. To access right click on the `<>home.html` file and select Open with Live Server from the pop up menu. 
+In order to preview your work in your browswer use Live Server. This is a VS code feature that will show a "live" version of the website and will update whne ou make chnages in the html. To access right click on the `<>home.html` file and select Open with Live Server from the pop up menu. 
 
 <img src="images/SelectLiveServer.jpg" width="40%" length="40%"> 
 
-The webpage will open in your browser and should look like
+The webpage will open in your browser and should look like this: 
 
 ### 4. Make the assigned changes to the website
 Each person will be assigned a cohort card number. You can find in the the HTML under "title" ```<p class="title">COHORT 1</p>```. 
