@@ -6,11 +6,16 @@ You pushed your branch changes and you are now ready to them merged into the mai
 
 The main branch is tyically the repository that everyone can count on that works. So it must be protected from unverified changes. If you checked everything and are ready to submit your pull request. Proceed as follows:  
 
-### 
+### Start the Pull Request:
+Navigate to the GitHub repository and click on Pull requests topward the top of the screen:  
 
 <img src="images/newPullRequest.jpg">
 
+Click on the green New pull request button 
+
 <img src="images/selectBranchForPR.jpg">
+
+Select from the right dropdown box: 
 
 <img src="images/pullRequestNotes.jpg">
 
