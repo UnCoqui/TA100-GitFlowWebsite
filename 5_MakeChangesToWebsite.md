@@ -47,12 +47,26 @@ You will update the following:
 - In the `<p>Some text...` enter short sentence that describes somethign about you (i.e. maybe a hobby, that you are a Tech Participant at NFAR, etc.)
 - in the `<p> example@example.com` enteryour@autest.net email address
 
-### 5. Commit changes to your branch
+### 5. Review your work
+As you make changes review your work. Save changes and refresh the browser to see your changes. Once you are satisfied with your changes you can submit for it to get merged with the main repository. 
+
+### 6. Stage, Commit, and Push changes to your branch
+if ready to have your branch changes to merge with main repository you will have to stage, commit, and push to the remote repository.  
+
+Stage your files: 
 
 ```
 %git add home.html
+%git add 
+```
+Commit your files: 
 
+```
 %git commit –m “changes to card "#" ”
+```
+Push your branch changes to the remote repository:
 
+```
 %git push
+```
 ```
