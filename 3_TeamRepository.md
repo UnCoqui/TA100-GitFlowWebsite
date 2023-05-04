@@ -45,5 +45,6 @@ Whenever a developer opens a pull request, they should be sure to include all of
    - ### Commits
       - Each relevant commit should be included in your PR and each commit should have a concise description of code changes. 
 
+Now that you have an idea of the work flow, let's get the remote repository on your local drive. 
 
 ### [Next - Step 4: Clone or Fork Repository](4_CloneWebsite.md)
