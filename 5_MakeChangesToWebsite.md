@@ -2,12 +2,27 @@
 Now you get to make some changes. The website has "cards" to display some information for each cohort. Each person will be assigned a cohort number and will only make changes to that "card". 
 
 ### 1. Navigate to your folder:
-Open Terminal and navigate to your project folder. Make sure to checkout the branch you created earlier and check status - this is important. 
+Open Terminal and navigate to your project folder. Make sure to checkout the branch you created earlier and check status - this is important.
+```
+%git checkout <yourBranch>
+```
 
-### 2. Open VSCode
+### 2. Open Visual Studio Code (VS Code):
+While in Terminal open VS code by entering the following command:
+```
+%code .
+```
+VS Code will open in the corresponding folder. If this does command does not launch VS Code for you, please follow these [instructions](https://code.visualstudio.com/docs/setup/mac) to configure this shortcut from Terminal.  
 
-### 3. Make the assigned changes to the website
-Each person will be assigned a cohort card number. You can find in in the the HTML under "title" ```<p class="title">COHORT 1</p>```. 
+### 3. Preview your work
+In order to preview your work in your browswer using Live Server. This is a VS code feature that will show a "live" version of the website. To access right click on the `<>home.html` file and select Open with Live Server from the pop up menu. 
+
+<img src="images/SelectLiveServer.jpg" width="40%" length="40%"> 
+
+The webpage will open in your browser and should look like
+
+### 4. Make the assigned changes to the website
+Each person will be assigned a cohort card number. You can find in the the HTML under "title" ```<p class="title">COHORT 1</p>```. 
 ```
  <div class="column">
           <div class="card">
@@ -29,12 +44,8 @@ You will update the following:
 - In the `<h2>Your Name` enter your First and Last Name
 - In the `<p>Some text...` enter short sentence that describes somethign about you (i.e. maybe a hobby, that you are a Tech Participant at NFAR, etc.)
 - in the `<p> example@example.com` enteryour@autest.net email address
-### 5. Preview your work
-In order to preview your work you can view in your browswer using liveserver  
 
-<img src="images/SelectLiveServer.jpg" width="40%" length="40%"> 
-
-### 4. Commit changes to your branch
+### 5. Commit changes to your branch
 
 ```
 %git add home.html
