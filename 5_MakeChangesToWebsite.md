@@ -41,7 +41,7 @@ Each person will be assigned a cohort card number. You can find your assigned Co
         
  ```       
 You will update the following: 
-- Upload your picture to the image folder (shoulder and up). We can take picture here. 
+- Upload your picture to the image folder (shoulder and up). We can take picture here. The image file name will be `cohort#.jpg`. So the image for cohort 1 will be `cohort1.jpg`. 
 - Change the `img src=` to point to the image you uploaded
 - In the `<h2>Your Name` enter your First and Last Name
 - In the `<p>Some text...` enter short sentence that describes somethign about you (i.e. maybe a hobby, that you are a Tech Participant at NFAR, etc.)
@@ -57,7 +57,7 @@ Stage your files:
 
 ```
 %git add home.html
-%git add 
+%git add images/<cohort#.jpg>
 ```
 Commit your files: 
 
@@ -69,4 +69,14 @@ Push your branch changes to the remote repository:
 ```
 %git push
 ```
-```
+Go to the website project repository in GitHub. While in GitHub click on branches:
+
+<img src="images/branchesLink.PNG" width="60%" length="60%"> 
+
+Make sure your remote branch is updated with the changes you pushed. 
+
+<img src="images/branchUpdatesStatus.png" width="80%" length="80%"> 
+
+You are now ready to submit a pull request. 
+
+
