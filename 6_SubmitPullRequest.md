@@ -4,20 +4,21 @@ You pushed your branch changes and you are now ready to them merged into the mai
 
 <img src="images/mergeMain.png">
 
-The main branch is tyically the repository that everyone can count on that works. So it must be protected from unverified changes. If you checked everything and are ready to submit your pull request. Proceed as follows:  
+The main branch is tyically the repository that everyone can count on to work. So, it must be protected from anything that can break it. If you checked everything and are ready to submit your pull request. Proceed as follows:  
 
 ### Start the Pull Request:
-Navigate to the GitHub repository and click on Pull requests topward the top of the screen:  
+Navigate to the GitHub repository and click on Pull requests topward the top of the screen.<br>
+Click on the green "New pull request" button. 
 
 <img src="images/newPullRequest.jpg">
 
-Click on the green New pull request button 
+By default the "base:main" branch will show up in the left dropdown box. Select your branch from the right dropdown box and then click on the green "Create pull request" button
 
 <img src="images/selectBranchForPR.jpg">
 
-Select from the right dropdown box: 
 
-<img src="images/pullRequestNotes.jpg">
+
+<img src="images/pullRequestNotes.jpg" width="50%">
 
 
 
