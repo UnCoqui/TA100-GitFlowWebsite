@@ -31,8 +31,11 @@ Great article, right? Your team will hopefully have some guidelines around writi
 - Screenshots (optional)
 - Anything Else?
 ```
-Make sure to fill out each area as described in the article. 
+Make sure to fill out each area as described in the article. Below is a sample pull request comment: 
 
-<img src="images/pullRequestNotes.jpg" width="80%" length="80%">
+<img src="images/pullRequestNotes.JPG" width="80%" length="80%">
 
+Once you have filled out the pull request comments click on the green "Create pull request" button. Now your pull request gets reviewed and approved.
+
+Next Step: 
 
