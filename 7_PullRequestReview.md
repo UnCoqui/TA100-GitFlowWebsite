@@ -10,7 +10,7 @@ When asked to review a pull request, navigate to Git Hub and click on Pull Reque
 The screen below will appear. Click on "add your review".  
 <img src="images/pullRequestReview.jpg" width="60%" length="60%">
 
-The screen will change and it will provide a comparison of the original file on the left and the submitted changes on the right. Any uploaded images will be further down on the page. 
+The screen will change and it will provide a comparison of the original file on the left (red) and the submitted changes on the right (green). Notice how changes are highlighted. Any uploaded images will be further down on the page. 
 
 <img src="images/ReviewChanges.png" width="60%" length="60%">
 
@@ -28,7 +28,10 @@ You are reviewing the following:
 - Screenshots (optional)
 - Anything Else?
 ```
-If everyhting is ok, then you can approve and submit. Something needs changes? Then click on 
+If everything is ok, then you can click on the green button "Review Changes". 
+The pop-up window below will appear. Enter you comments, select approve and click on the green "Submit Review" button. 
+
+Something needs changes? Select "Request changes". In the comments area detail the changes you are requesting (a typo, picture update, etc.) then click on the green button "Review Changes".
 
 <img src="images/pullRequestChanges.jpg" width="60%" length="60%">
 
