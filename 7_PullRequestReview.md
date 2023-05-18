@@ -4,7 +4,7 @@ Now that you submitted your pull request it needs to get reviewed and approved. 
 Ask another team member to review your pull request. If you have reviewed a pull request already, please make sure to give someone else a chance to conduct a review.
 
 
-### Selecting a Pull Request 
+## Selecting a Pull Request 
 When asked to review a pull request, navigate to Git Hub and click on Pull Requests. Find the pull request you were asked to review and click on the pull request title. 
 
 The screen below will appear. Click on "add your review".  
@@ -14,7 +14,7 @@ The screen will change and it will provide a comparison of the original file on 
 
 <img src="images/ReviewChanges.png" width="60%" length="60%">
 
-#### What to review? 
+### What to Review? 
 You are reviewing the following: 
 - HTML (any typos? is the syntax correct?)
 - Did they submit the picture correctly (is it square? is it clear? does it show the person?)
@@ -28,12 +28,31 @@ You are reviewing the following:
 - Screenshots (optional)
 - Anything Else?
 ```
-If everything is ok, then you can click on the green button "Review Changes". 
-The pop-up window below will appear. Enter you comments, select approve and click on the green "Submit Review" button. 
 
-Something needs changes? Select "Request changes". In the comments area detail the changes you are requesting (a typo, picture update, etc.) then click on the green button "Review Changes".
+### Review: Approval
+If everything is ok, then you can click on the green button "Review Changes". 
+The pop-up window below will appear. Enter you comments, select "Approve" and click on the green "Submit Review" button. 
 
 <img src="images/pullRequestChanges.jpg" width="60%" length="60%">
+
+### Review: Request Changes
+Something needs changes? Select "Request changes". In the comments area detail the changes you are requesting (a typo, picture update, etc.) then click on the green button "Review Changes".
+
+### Review: Comments
+Whether you are approving or requesting changes make sure to leave comments. Rememeber that you can also "just" leave a comment that does **not** approve or request changes. Some guidelines about comments:
+
+- Familiarize yourself with the context of the issue, and reasons why this Pull Request exists.
+- If you disagree strongly, consider giving it a few minutes before responding; think before you react.
+- Ask, don’t tell. (“What do you think about trying…?” rather than “Don’t do…”)
+- Explain your reasons why code should be changed. (Not in line with the style guide? A personal preference?)
+- Offer ways to simplify or improve code.
+- Avoid using derogatory terms, like “dumb”, when referring to the work someone has produced.
+- Be humble. (“I’m not sure, let’s try…”)
+- Avoid hyperbole. (“NEVER do…”)
+- Aim to develop professional skills, group knowledge and product quality, through group critique.
+- Be aware of negative bias with online communication. (If content is neutral, we assume the tone is negative.) Can you use positive language as opposed to neutral?
+- Its ok to use emojis to clarify tone. Compare "👌 Good job 👍” to “Good job.”
+
 
 If someone requested a change to your pull request you can view their request here: 
 
