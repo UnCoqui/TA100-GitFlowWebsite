@@ -1,7 +1,9 @@
 # Pull Request Review
-Now that you submitted your pull request it needs to get reviewed and approved. Certain team members will have the ability to review your code and make comments, request changes, or approve. Each pull request must have one review before it gets approved and merged. 
+Now that you submitted your pull request it needs to get reviewed and approved. Team members will have the ability to review your code, make comments, request changes, or approve. Each pull request must have one review before it gets approved and merged. Merging wil **ONLY** be done by the Team Leader.  
 
-In our team you will have another team member review your pull request. Only the team leader will be able to approve it and merge it. When you click on "to check".
+Ask another team member to review your pull request. If you have the reviewed someone's pull request already, please make sure to give someone else a chance to review a pull request.
+
+When you click on "to check".
 
 <img src="images/pullRequestReview.jpg" width="60%" length="60%">
 
