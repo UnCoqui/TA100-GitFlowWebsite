@@ -14,7 +14,14 @@ You are reviewing thw following:
 - HTML (any typos? is the syntax correct?)
 - Did they submit the picture correctly (is it square? is it clear? does it show the person?)
 - Did they submit a screen shot of the completed card?
-- Did they submit comments followin the standard (see below for a refresher)?
+- Did they submit comments following the standard (see below for a refresher)?
+```
+- What?
+- Why?
+- How?
+- Testing?
+- Screenshots (optional)
+- Anything Else?
 ```
 
 <img src="images/pullRequestChanges.jpg" width="60%" length="60%">
