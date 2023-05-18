@@ -53,7 +53,7 @@ Whether you are approving or requesting changes make sure to leave comments. Rem
 - Be aware of negative bias with online communication. (If content is neutral, we assume the tone is negative.) Can you use positive language as opposed to neutral?
 - Its ok to use emojis to clarify tone. Compare "👌 Good job 👍” to “Good job.”
 
-
+## Did you get a Change Request?
 If someone requested a change to your pull request you can view their request here: 
 
 <img src="images/pullRequestChange.jpg" width="60%" length="60%">
