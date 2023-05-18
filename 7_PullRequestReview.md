@@ -12,6 +12,8 @@ The screen below will appear. Click on "add your review".
 
 The screen will change and it will provide a comparison of the original file on the left and the submitted changes on the right. Any uploaded images will be further down on the page. 
 
+<img src="images/ReviewChanges.png" width="60%" length="60%">
+
 #### What to review? 
 You are reviewing the following: 
 - HTML (any typos? is the syntax correct?)
