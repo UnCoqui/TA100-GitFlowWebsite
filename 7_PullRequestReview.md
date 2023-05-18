@@ -4,13 +4,16 @@ Now that you submitted your pull request it needs to get reviewed and approved. 
 Ask another team member to review your pull request. If you have reviewed a pull request already, please make sure to give someone else a chance to conduct a review.
 
 
-### What to Review? 
+### Selecting a Pull Request 
 When asked to review a pull request, navigate to Git Hub and click on Pull Requests. Find the pull request you were asked to review and click on the pull request title. 
 
 The screen below will appear. Click on "add your review".  
 <img src="images/pullRequestReview.jpg" width="60%" length="60%">
 
-You are reviewing thw following: 
+The screen will change and it will provide a comparison of the original file on the left and the submitted changes on the right. Any uploaded images will be further down on the page. 
+
+#### What to review? 
+You are reviewing the following: 
 - HTML (any typos? is the syntax correct?)
 - Did they submit the picture correctly (is it square? is it clear? does it show the person?)
 - Did they submit a screen shot of the completed card?
@@ -23,6 +26,7 @@ You are reviewing thw following:
 - Screenshots (optional)
 - Anything Else?
 ```
+If everyhting is ok, then you can approve and submit. Something needs changes? Then click on 
 
 <img src="images/pullRequestChanges.jpg" width="60%" length="60%">
 
