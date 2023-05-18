@@ -54,7 +54,7 @@ Whether you are approving or requesting changes make sure to leave comments. Rem
 - Its ok to use emojis to clarify tone. Compare "👌 Good job 👍” to “Good job.”
 
 ## Did you get a Change Request?
-If someone requested a change to your pull request you can view their request here: 
+If someone requested a change to your pull request, navigate to your pull request and open it. You can view their change request here: 
 
 <img src="images/pullRequestChange.jpg" width="60%" length="60%">
 
