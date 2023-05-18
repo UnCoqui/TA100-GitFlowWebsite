@@ -7,9 +7,10 @@ Ask another team member to review your pull request. If you have the reviewed so
 ### What to Review? 
 When asked to review a pull request, navigate to Git Hub and click on Pull Requests. Find the pull request you were asked to review and click on the pull request title. 
 
-When you click on "to check".
-
+The screen below will appear. Click on "add your review".  
 <img src="images/pullRequestReview.jpg" width="60%" length="60%">
+
+Check 
 
 You can submit comments, approve, or request changes to pull requests: 
 
