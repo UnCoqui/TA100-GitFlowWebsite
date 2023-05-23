@@ -25,7 +25,8 @@ The webpage will open in your browser and should look like this:
 
 ### 4. Make the assigned changes to the website
 Each person will be assigned a cohort card number. You can find your assigned Cohort number in the the HTML under "title" <br> ```<p class="title">COHORT 1</p>```. 
-```
+
+```js
  <div class="column">
           <div class="card">
             <img src="images/SamplePic.jpg" alt="Cohort1">
@@ -41,7 +42,7 @@ Each person will be assigned a cohort card number. You can find your assigned Co
         
  ```       
 You will update the following: 
-- Upload your picture to the image folder (shoulder and up). We can take the picture here. The image file name will be `cohort#.jpg`. So the image for cohort 1 will be `cohort1.jpg`. 
+- Upload your picture to the image folder (shoulder and up). We can take the picture here. The image file name will be `cohort#.jpg`. So the image for cohort 1 will be `cohort1.jpg`. In order to make the image square you can use the following website: https://squareanimage.com/ 
 - Change the `img src=` to point to the image you uploaded
 - In the `<h2>Your Name`, enter your First and Last Name
 - In the `<p>Some text...`, enter a short sentence that describes something about you (i.e.: a hobby, that you are a Tech Participant at NFAR, etc.)
