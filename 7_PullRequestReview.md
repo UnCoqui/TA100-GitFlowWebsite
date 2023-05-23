@@ -53,11 +53,14 @@ Whether you are approving or requesting changes make sure to leave comments. Rem
 - Be aware of negative bias with online communication. (If content is neutral, we assume the tone is negative.) Can you use positive language as opposed to neutral?
 - It's ok to use emojis to clarify tone. Compare "👌 Good job 👍” to “Good job.” Obviously, there will be workplace guidelines aoprunf this that you will need to follow.  
 
-## Did you get a Change Request?
-If someone requested a change to your pull request, navigate to your pull request and open it. You can view their change request here: 
+### Did you get a Change Request?
+If someone requested a change to your pull request, navigate to the pull request and open it. You can view their change request here: 
 
 <img src="images/pullRequestChange.jpg" width="60%" length="60%">
 
-Make the requested changes and re-submit. 
+Make the requested changes in you local repository and re-submit. The pull-request will need another review. 
+
+## Who merges the changes?
+The Team Leader is the only one that can merge pull requests. Each organization will have guidelines on merging to the main branch in order to protect it. 
 
 
