@@ -15,7 +15,7 @@ While in Terminal open VS code by entering the following command:
 VS Code will open in the corresponding folder. If this command does not launch VS Code for you, please follow these [instructions](https://code.visualstudio.com/docs/setup/mac) to configure this shortcut from Terminal.  
 
 ### 3. Preview your work
-In order to preview your work in your browser, use [Live Server](https://www.geeksforgeeks.org/how-to-enable-live-server-on-visual-studio-code/). This is a VS code feature that will show a "live" version of the website and will update when you make changes in the html. To access the Live Server, right click on the `<>home.html` file and select "Open with Live Server" from the pop up menu. 
+In order to preview your work in your browser, use [Live Server](https://www.geeksforgeeks.org/how-to-enable-live-server-on-visual-studio-code/). This is a VS code feature that will show a "live" version of the website and will update when you make changes in the html. To access the Live Server, right click on the `<>home.html` file and select "Open with Live Server" from the pop up menu.
 
 <img src="images/SelectLiveServer.jpg" width="40%" length="40%"> 
 
@@ -25,7 +25,8 @@ The webpage will open in your browser and should look like this:
 
 ### 4. Make the assigned changes to the website
 Each person will be assigned a cohort card number. You can find your assigned Cohort number in the the HTML under "title" <br> ```<p class="title">COHORT 1</p>```. 
-```
+
+```js
  <div class="column">
           <div class="card">
             <img src="images/SamplePic.jpg" alt="Cohort1">
@@ -41,7 +42,7 @@ Each person will be assigned a cohort card number. You can find your assigned Co
         
  ```       
 You will update the following: 
-- Upload your picture to the image folder (shoulder and up). We can take the picture here. The image file name will be `cohort#.jpg`. So the image for cohort 1 will be `cohort1.jpg`. 
+- Upload your picture to the image folder (shoulder and up). We can take the picture here. The image file name will be `cohort#.jpg`. So the image for cohort 1 will be `cohort1.jpg`. In order to make the image square you can use the following website: https://squareanimage.com/ 
 - Change the `img src=` to point to the image you uploaded
 - In the `<h2>Your Name`, enter your First and Last Name
 - In the `<p>Some text...`, enter a short sentence that describes something about you (i.e.: a hobby, that you are a Tech Participant at NFAR, etc.)
