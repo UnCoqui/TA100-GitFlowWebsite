@@ -1,5 +1,5 @@
 # Pull Request Review
-Now that you submitted your pull request it needs to get reviewed and approved. Team members will have the ability to review your code and make comments, request changes, or approve. Each pull request must have one review before it gets approved and merged. Merging will **ONLY** be done by the Team Leader. Please do not merge any changes.  
+Now that you submitted your pull request it needs to get reviewed and approved. Team members will have the ability to review your code and make comments, request changes, or approve. For our team, each pull request must have one review before it gets approved and merged. Merging will **ONLY** be done by the Team Leader. Please do not merge any changes.  
 
 Ask another team member to review your pull request. If you have reviewed a pull request already, please make sure to give someone else a chance to conduct a review.
 
@@ -15,7 +15,7 @@ The screen will change and it will provide a comparison of the original file on 
 <img src="images/ReviewChanges.png" width="60%" length="60%">
 
 ### What to Review? 
-You are reviewing the following: 
+It is your responsibility to review the proposed changes from the pull request. You are the gatekeeper and your approval means that you certify the pull request will not "break" teh main branch. Here are some items to be reviewed: 
 - HTML (any typos? is the syntax correct?)
 - Did they submit the picture correctly (is it square? is it clear? does it show the whole person?)
 - Did they submit a screen shot of the completed card?
@@ -30,13 +30,13 @@ You are reviewing the following:
 ```
 
 ### Review: Approval
-If everything is ok, then you can click on the green button "Review Changes". 
+If everything is ok, then click on the green "Review Changes" button. 
 The pop-up window below will appear. Enter you comments, select "Approve" and click on the green "Submit Review" button. 
 
 <img src="images/pullRequestChanges.jpg" width="60%" length="60%">
 
 ### Review: Request Changes
-Something needs changes? Select "Request changes". In the comments area detail the changes you are requesting (a typo, picture update, etc.) then click on the green button "Review Changes".
+Did you find something during your review? Something needs changes? Select "Request changes". In the comments area detail the changes you are requesting (a typo, picture update, etc.) then click on the green "Review Changes" button.
 
 ### Review: Comments
 Whether you are approving or requesting changes make sure to leave comments. Remember that you can also "just" leave a comment that does **not** approve or request changes. Some guidelines about comments:
@@ -58,6 +58,6 @@ If someone requested a change to your pull request, navigate to your pull reques
 
 <img src="images/pullRequestChange.jpg" width="60%" length="60%">
 
-Make the requested changes and submit. 
+Make the requested changes and re-submit. 
 
 
