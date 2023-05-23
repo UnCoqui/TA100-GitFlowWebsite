@@ -17,7 +17,7 @@ The screen will change and it will provide a comparison of the original file on 
 ### What to Review? 
 You are reviewing the following: 
 - HTML (any typos? is the syntax correct?)
-- Did they submit the picture correctly (is it square? is it clear? does it show the person?)
+- Did they submit the picture correctly (is it square? is it clear? does it show the whole person?)
 - Did they submit a screen shot of the completed card?
 - Did they submit comments following the standard (see below for a refresher)?
 ```
