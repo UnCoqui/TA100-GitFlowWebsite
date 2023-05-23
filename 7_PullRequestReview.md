@@ -39,7 +39,7 @@ The pop-up window below will appear. Enter you comments, select "Approve" and cl
 Something needs changes? Select "Request changes". In the comments area detail the changes you are requesting (a typo, picture update, etc.) then click on the green button "Review Changes".
 
 ### Review: Comments
-Whether you are approving or requesting changes make sure to leave comments. Rememeber that you can also "just" leave a comment that does **not** approve or request changes. Some guidelines about comments:
+Whether you are approving or requesting changes make sure to leave comments. Remember that you can also "just" leave a comment that does **not** approve or request changes. Some guidelines about comments:
 
 - Familiarize yourself with the context of the issue, and reasons why this Pull Request exists.
 - If you disagree strongly, consider giving it a few minutes before responding; think before you react.
@@ -51,12 +51,13 @@ Whether you are approving or requesting changes make sure to leave comments. Rem
 - Avoid hyperbole. (“NEVER do…”)
 - Aim to develop professional skills, group knowledge and product quality, through group critique.
 - Be aware of negative bias with online communication. (If content is neutral, we assume the tone is negative.) Can you use positive language as opposed to neutral?
-- Its ok to use emojis to clarify tone. Compare "👌 Good job 👍” to “Good job.”
+- It's ok to use emojis to clarify tone. Compare "👌 Good job 👍” to “Good job.” Obviously, there will be workplace guidelines aoprunf this that you will need to follow.  
 
 ## Did you get a Change Request?
 If someone requested a change to your pull request, navigate to your pull request and open it. You can view their change request here: 
 
 <img src="images/pullRequestChange.jpg" width="60%" length="60%">
 
+Make the requested changes and submit. 
 
 
