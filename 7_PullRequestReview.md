@@ -15,7 +15,7 @@ The screen will change and it will provide a comparison of the original file on 
 <img src="images/ReviewChanges.png" width="60%" length="60%">
 
 ### What to Review? 
-It is your responsibility to review the proposed changes from the pull request. You are the gatekeeper and your approval means that you certify the pull request will not "break" teh main branch. Here are some items to be reviewed: 
+It is your responsibility to review the proposed changes from the pull request. You are the gatekeeper and your approval means that you certify the pull request will not "break" the main branch. Here are some items to be reviewed: 
 - HTML (any typos? is the syntax correct?)
 - Did they submit the picture correctly (is it square? is it clear? does it show the whole person?)
 - Did they submit a screen shot of the completed card?
